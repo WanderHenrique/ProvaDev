@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 600px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  .content {
+    padding: 10px;
+  }
+  
+  .list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .list li {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .list li h2 {
+    width: 100px;
+    margin-right: 10px;
+  }
+  
+  .list li p {
+    margin-bottom: 0;
+  }
+  
+  .form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .form button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+  }
+  
